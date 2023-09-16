@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        { "source": "/(.*)", "destination": "/koreader-flask.py" }
+        { "source": "/(.*)", "destination": "/koreader-flask" }
     ]
 }
